@@ -1,0 +1,19 @@
+{
+   "version": "0.7",
+   "packages": [
+      {
+         "name": "boxx",
+         "version": "0.0.2",
+         "url": "https://github.com/thecodrr/boxx",
+         "method": "git",
+         "latest_commit": "03a2374cd5c4ae2520a59ea1f05e81de4f93f4e9"
+      },
+      {
+         "name": "crayon",
+         "version": "0.0.2",
+         "url": "https://github.com/thecodrr/crayon",
+         "method": "git",
+         "latest_commit": "6df7e75320e822cdd4ed7e09d41685086aa41a15"
+      }
+   ]
+}
