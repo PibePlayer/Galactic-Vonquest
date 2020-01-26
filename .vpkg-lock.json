@@ -3,10 +3,10 @@
    "packages": [
       {
          "name": "boxx",
-         "version": "0.0.2",
+         "version": "0.0.3",
          "url": "https://github.com/thecodrr/boxx",
          "method": "git",
-         "latest_commit": "03a2374cd5c4ae2520a59ea1f05e81de4f93f4e9"
+         "latest_commit": "6ff0dd88135be860be3be653131c47f444fcb9d7"
       },
       {
          "name": "crayon",
